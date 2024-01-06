@@ -14,7 +14,7 @@ export const Header = async () => {
             </p>
           </a>
           <div className="flex items-center lg:order-2">
-            <Button variant="ghost" href="#" className="">
+            <Button href="#" className=" mr-8">
               Me joindre
             </Button>
             <ThemeToggle />
