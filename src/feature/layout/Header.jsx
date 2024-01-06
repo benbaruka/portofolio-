@@ -9,8 +9,7 @@ export const Header = async () => {
       <div className=" container flex items-center py-8 m-auto gap-1 ">
         <h2 className=" text-xl font-bold mr-auto">B. JETHRO</h2>
         <div className=" flex ">
-          <Button>Me joindre</Button>
-          <ThemeToggle />
+       
         </div>
         <div className=" flex gap-8">
           <Button>Me joindre</Button>
